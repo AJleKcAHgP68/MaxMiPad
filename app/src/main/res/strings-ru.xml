@@ -1,0 +1,41 @@
+<resources>
+    <string name="android_r_tips">На Android 11 доступно только снятие ограничения Bluetooth стилуса, другие функции не поддерживаются.</string>
+    <string name="app_name" translatable="false">MaxMiPad</string>
+    <string name="cancel">Отмена</string>
+    <string name="clear">Очистить</string>
+    <string name="disable_fixed_orientation">Отключить фиксированную ориентацию</string>
+    <string name="disable_fixed_orientation_scope">Отключить область фиксированной ориентации</string>
+    <string name="disable_fixed_orientation_scope_tips">Вступит в силу после перезагрузки</string>
+    <string name="disable_fixed_orientation_tips">Отключить фиксированную ориентацию некоторых приложений</string>
+    <string name="done">OK</string>
+    <string name="enable_stylus_input_method">Снимите ограничение Bluetooth Scribe</string>
+    <string name="enable_stylus_input_method_tips">Заставьте Scribe работать без необходимости подключения Bluetooth к официальному стилусу</string>
+    <string name="finished">Закончено</string>
+    <string name="fix_disable_multi_finger_gesture_filter">Исправление функции «Не отвечать на жесты тремя и четырьмя пальцами».</string>
+    <string name="fix_disable_multi_finger_gesture_filter_tips">Управляется с помощью функций "Домой - Не реагировать на жесты тремя и четырьмя пальцами" и "Запретить жесты скриншотов в игре"</string>
+    <string name="ignore_stylus_key_gesture">Игнорировать жест кнопок стилуса</string>
+    <string name="ignore_stylus_key_gesture_tips">Игнорируйте жест длительного нажатия на кнопках стилуса.</string>
+    <string name="input">Вход</string>
+    <string name="no_magic_pointer">Без magic указателя</string>
+    <string name="no_magic_pointer_tips">Замена круглого указателя MIUI на указатель AOSP</string>
+    <string name="not_support">Кажется, вы используете устаревшую версию LSPosed или LSPosed не активен, пожалуйста, обновите LSPosed или активируйте его и повторите попытку.</string>
+    <string name="reboot">Перезагрузить</string>
+    <string name="reboot_system">Перезагрузка системы</string>
+    <string name="reboot_tips">Вы уверены, что хотите перезагрузитесь?</string>
+    <string name="remove_stylus_bluetooth_restriction">Удалить ограничение Bluetooth для стилуса</string>
+    <string name="remove_stylus_bluetooth_restriction_driver_version">Версия драйвера</string>
+    <string name="remove_stylus_bluetooth_restriction_driver_version_tips">Версия драйвера для снятия ограничения Bluetooth стилуса</string>
+    <string name="remove_stylus_bluetooth_restriction_tips">Обеспечьте работу всех совместимых стилусов без необходимости подключения официального стилуча по Bluetooth</string>
+    <string name="restart_all_scope">Перезапустить всю область</string>
+    <string name="restart_all_scope_tips">Вы уверены, что хотите перезапустите всю область?</string>
+    <string name="restore_esc">Восстановить функцию ESC</string>
+    <string name="restore_esc_tips">Восстановите функцию ESC, которая была жестко сопоставлена MIUI/Hyper с функцией «назад».</string>
+    <string name="screen">Экран</string>
+    <string name="search">Поиск</string>
+    <string name="set_gesture_need_finger_num_to_4">Поменяйте местами количество пальцев, необходимое для жестов.</string>
+    <string name="set_gesture_need_finger_num_to_4_tips">Измените жест снимка экрана, жест частичного снимка экрана и жест горизонтального разделения экрана, чтобы он запускался четырьмя пальцами, и переключите жест приложений, чтобы он запускался тремя пальцами.</string>
+    <string name="show_system_applications">Показать системные приложения</string>
+    <string name="vertical_split_on_portrait">Разделение экрана по горизонтали в портретной ориентации</string>
+    <string name="warning">Предупреждение</string>
+    <string name="xposed_desc">Предоставьте некоторые улучшения для Mi Pad</string>
+</resources>
